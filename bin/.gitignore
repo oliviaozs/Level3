@@ -6,6 +6,7 @@
 /Flight.class
 /FlightTest.class
 /LongChipCompetition.class
+/Main.class
 /OncogeneDetector.class
 /OncogeneTest.class
 /Plane.class
@@ -23,7 +24,9 @@
 /TextEditor.class
 /Time.class
 /Trip.class
-/WarmUpTester.class
 /WarmUp107.class
-/Main.class
-/dictionary.txt
+/WarmUpTester.class
+/Warmup1014.class
+/AnimalHipsterTest.class
+/AnimalHipster.class
+/Challenge1014.class
